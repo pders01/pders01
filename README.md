@@ -4,7 +4,6 @@
 
 🇩🇪 👨🏻‍💻 📚 🧐
 
-<hr>
 
 #### I am a librarian in software development.
 
@@ -12,7 +11,6 @@ I want to empower librarians to combat society's problems and give laughable com
 
 I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
-<hr>
 
 #### Stats
 
@@ -20,7 +18,9 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
 #### Technologies & Tools
 
-![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=https://simpleicons.org/?q=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
 
