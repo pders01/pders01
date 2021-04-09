@@ -4,15 +4,23 @@
 
 🇩🇪 👨🏻‍💻 📚 🧐
 
+<hr>
+
 #### I am a librarian in software development.
 
 I want to empower librarians to combat society's problems and give laughable companies a run for their money. ✌🏻💸
 
 I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pders01&show_icons=true&theme=radical)
+<hr>
 
-![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+#### Stats
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pders01&show_icons=true&theme=dracula)
+
+#### Technologies & Tools
+
+![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=https://simpleicons.org/?q=bash&logoColor=white&color=2bbc8a)
 
 
 
