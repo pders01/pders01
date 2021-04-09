@@ -15,6 +15,8 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 #### Stats
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pders01&show_icons=true&theme=dracula)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pders01&show_icons=true&theme=dracula)
+
 
 #### Technologies & Tools
 
