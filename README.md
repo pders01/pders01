@@ -21,10 +21,19 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
 #### 🧰 Technologies & Tools
 
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Linode-informational?style=flat&logo=linode&logoColor=white&color=2bbc8a)
+
+
 
 
 
