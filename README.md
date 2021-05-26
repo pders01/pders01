@@ -28,6 +28,7 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat&logo=vultr&logoColor=white&color=2bbc8a)
