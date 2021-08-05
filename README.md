@@ -1,7 +1,6 @@
 <img align="center" alt="paulderscheid | future blog" width="100%" src="readme_header.png" style="border-radius: 50px;" />
 
 <br />
-<br />
 
 
 #### I am a librarian in software development. 👨🏻‍💻 📚
