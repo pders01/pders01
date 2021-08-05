@@ -1,12 +1,12 @@
-<!--[![Header](https://github.com/pders01/pders01/blob/main/readme_header.png "Header")](https://paulderscheid.xyz)-->
-
-### Hi, I'm Paul. 👋
+<img align="center" alt="paulderscheid | future blog" width="100%" src="readme_header.png" style="border-radius: 50px;" />
 
 <br />
+<br />
 
-#### 🧐 I am a librarian in software development. 👨🏻‍💻 📚
 
-- My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. ✌🏻💸
+#### I am a librarian in software development. 👨🏻‍💻 📚
+
+- 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. ✌🏻💸
 - 🔭 I’m currently working on my bachelor's thesis about the do's and don'ts of recommender system front-ends.
 - 🌱 I’m currently learning Perl, 'cause Koha is written in it. 🐫
 - 👯 I’m looking to collaborate on anything OSS. 
@@ -27,14 +27,13 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 [<img align="left" alt="paulderscheid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
 
 #### 📈 Stats
 
 <br />
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pders01&show_icons=true&theme=dracula)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pders01&show_icons=true&theme=dracula)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pders01&show_icons=true&theme=dracula)
 
 <br />
 
