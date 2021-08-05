@@ -27,7 +27,6 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 [<img align="left" alt="paulderscheid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
 
 #### 📈 Stats
 
