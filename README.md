@@ -3,7 +3,7 @@
 <br />
 
 
-#### I am a librarian in software development. 👨🏻‍💻 📚
+# I am a librarian in software development. 👨🏻‍💻 📚
 
 - 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. ✌🏻💸
 - 🔭 I’m currently working on my bachelor's thesis about the do's and don'ts of recommender system front-ends.
@@ -18,7 +18,7 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
 <br />
 
-#### If you'd like to talk..
+## 🦜 If you'd like to talk..
 
 <br />
 
@@ -27,7 +27,7 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
 <br />
 
-#### 📈 Stats
+## 📈 Stats
 
 <br />
 
@@ -36,7 +36,7 @@ I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
 
 <br />
 
-#### 🧰 Technologies & Tools
+## 🧰 Technologies & Tools
 
 <br />
 
