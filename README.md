@@ -5,9 +5,9 @@
 
 # I am a librarian in software development. 👨🏻‍💻 📚
 
-- 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. ✌🏻💸
-- 🔭 I’m currently working on my bachelor's thesis about the do's and don'ts of recommender system front-ends.
-- 🌱 I’m currently learning Perl, 'cause Koha is written in it. 🐫
+- 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. 💸
+- 🔭 I'm currently working @LMSCloud GmbH as a software engineer.
+- 🌱 I’m currently learning Perl, 'cause Koha is written in it. I'm also really interested in mojolicious. 🐫
 - 👯 I’m looking to collaborate on anything OSS. 
 - 🤔 I’m looking for help with my project 📦 [koha-out-of-the-box](https://github.com/pders01/koha-out-of-the-box). 
 - 💬 Ask me about why scientific publishing is a scam. 😄
