@@ -1,4 +1,4 @@
-<img align="center" alt="paulderscheid | future blog" width="100%" src="header-image-github.png" style="border-radius: 50px;" />
+<img align="center" alt="paulderscheid | future blog" width="100%" src="github-header-image.png" style="border-radius: 50px;" />
 
 <br />
 
