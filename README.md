@@ -3,18 +3,19 @@
 <br />
 
 
-# I am a librarian in software development. 👨🏻‍💻 📚
+# I am a librarian by education and a software engineer by profession. 👨🏻‍💻 📚
 
 - 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. 💸
 - 🔭 I'm currently working @LMSCloud GmbH as a software engineer.
-- 🌱 I’m currently learning Perl, 'cause Koha is written in it. I'm also really interested in mojolicious. 🐫
+- 🌱 I'm currently learning Rust. Proficient in JavaScript, TypeScript, Python, Go. Still learning Perl5 in addtition to Raku. 🐫
 - 👯 I’m looking to collaborate on anything OSS. 
 - 🤔 I’m looking for help with my project 📦 [koha-out-of-the-box](https://github.com/pders01/koha-out-of-the-box). 
 - 💬 Ask me about why scientific publishing is a scam. 😄
 - 📫 How to reach me: me@paulderscheid.xyz 🚀
 
+I like [Koha](https://koha-community.org/). 
 
-I like [Koha](https://koha-community.org/) and [FOLIO](https://www.folio.org/).
+My views on [Library Services Platforms](https://medium.com/@paulderscheid/implications-of-the-transition-towards-library-services-platforms-7ad7f62034d6). 
 
 <br />
 
