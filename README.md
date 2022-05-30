@@ -1,7 +1,5 @@
 <img align="center" alt="paulderscheid | future blog" width="100%" src="header.png" style="border-radius: 50px;" />
 
-<br />
-
 # Librarian by education and software engineer by profession. 👨🏻‍💻 📚
 
 - 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. 💸
