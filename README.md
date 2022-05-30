@@ -2,8 +2,7 @@
 
 <br />
 
-
-# I am a librarian by education and a software engineer by profession. 👨🏻‍💻 📚
+# Librarian by education and a software engineer by profession. 👨🏻‍💻 📚
 
 - 🧐 My goals are empowering librarians to combat society's problems and giving questionable companies a run for their money. 💸
 - 🔭 I'm currently working @LMSCloud GmbH as a software engineer.
