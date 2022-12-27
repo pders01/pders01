@@ -7,7 +7,7 @@ From legacy to blazingly fast™ | Full-Stack Librarian
 Librarian by education, engineer by profession. Love web development but also staring at black screens with green output 💻
 
 * 🌍  I'm based in Germany
-* 👷  Working @LMSCloud Gmbh 
+* 👷  Working @LMSCloud GmbH
 * ✉️  You can contact me at [me@paulderscheid.xyz](mailto:me@paulderscheid.xyz)
 * 🤝  I'm open to collaborating on Anything OSS
 
