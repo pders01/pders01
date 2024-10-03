@@ -28,6 +28,7 @@ And by education, engineer by profession. Love web development but also staring 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://lit.dev/" target="_blank" rel="noreferrer"><img src="https://lit.dev/images/logo.svg#full" width="36" height="36" alt="Lit" /></a>
   <a href="https://solidjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width="36" height="36" alt="Solid JS" /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="36" height="36" alt="JQuery" /></a>
@@ -44,7 +45,6 @@ And by education, engineer by profession. Love web development but also staring 
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" /></a>
   <a href="https://rspack.dev/" target="_blank" rel="noreferrer"><img src="https://assets.rspack.dev/rspack/rspack-logo.svg" width="36" height="36" alt="Rspack" /></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" /></a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" /></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
 
