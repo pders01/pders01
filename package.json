@@ -1,0 +1,15 @@
+{
+  "name": "pders01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run src/build.ts"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.0.0"
+  }
+}
