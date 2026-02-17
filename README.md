@@ -67,13 +67,9 @@
 ### Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pders01&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pders01&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pders01&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/pders01/pders01/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
+<img src="https://raw.githubusercontent.com/pders01/pders01/main/profile-summary-card-output/transparent/3-stats.svg" alt="Stats" />
+<img src="https://raw.githubusercontent.com/pders01/pders01/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repos Per Language" />
+<img src="https://raw.githubusercontent.com/pders01/pders01/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Commit Language" />
+<img src="https://raw.githubusercontent.com/pders01/pders01/main/profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Time" />
 </p>

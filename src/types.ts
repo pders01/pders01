@@ -10,11 +10,6 @@ export interface SkillItem {
   iconUrl?: string;
 }
 
-export interface StatsConfig {
-  username: string;
-  theme?: string;
-}
-
 export interface ProfileConfig {
   name: string;
   title: string;
@@ -23,5 +18,5 @@ export interface ProfileConfig {
   skills: Record<string, SkillItem[]>;
   learningSkills?: SkillItem[];
   historicalSkills?: Record<string, SkillItem[]>;
-  stats: StatsConfig;
+  statsTheme?: string;
 }

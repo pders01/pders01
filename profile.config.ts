@@ -185,8 +185,5 @@ export default {
       },
     ],
   },
-  stats: {
-    username: "pders01",
-    theme: "transparent",
-  },
+  statsTheme: "transparent",
 } satisfies ProfileConfig;
