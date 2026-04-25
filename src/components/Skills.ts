@@ -5,37 +5,26 @@ const DEVICON_BASE =
 
 function skillIcon(skill: SkillItem): string {
   const src = skill.iconUrl ?? `${DEVICON_BASE}${skill.icon}.svg`;
-  return `  <a href="${skill.url}" target="_blank" rel="noreferrer"><img src="${src}" width="36" height="36" alt="${skill.name}" /></a>`;
+  return `<a href="${skill.url}" target="_blank" rel="noreferrer"><img src="${src}" width="36" height="36" alt="${skill.name}" /></a>`;
+}
+
+function renderCategory(category: string, items: SkillItem[]): string {
+  const icons = items.map(skillIcon).join(" ");
+  return `#### ${category}\n\n<p align="left">${icons}</p>`;
 }
 
 function renderCategories(skills: Record<string, SkillItem[]>): string {
   return Object.entries(skills)
-    .map(([category, items]) => {
-      const icons = items.map(skillIcon).join("\n");
-      return `  #### ${category}\n${icons}`;
-    })
+    .map(([category, items]) => renderCategory(category, items))
     .join("\n\n");
 }
 
 export function Skills({ config }: { config: ProfileConfig }): string {
-  const lines = [
-    "### Skills\n",
-    "",
-    '<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">',
-    "",
-    renderCategories(config.skills),
-  ];
+  const lines = ["### Skills", "", renderCategories(config.skills)];
 
   if (config.learningSkills?.length) {
-    const icons = config.learningSkills.map(skillIcon).join("\n");
-    lines.push(
-      "",
-      "  #### Currently Learning",
-      icons,
-    );
+    lines.push("", renderCategory("Currently Learning", config.learningSkills));
   }
-
-  lines.push("", "</p>");
 
   if (config.historicalSkills && Object.keys(config.historicalSkills).length) {
     lines.push(
@@ -43,11 +32,7 @@ export function Skills({ config }: { config: ProfileConfig }): string {
       "<details>",
       "<summary>Previously worked with</summary>",
       "",
-      '<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">',
-      "",
       renderCategories(config.historicalSkills),
-      "",
-      "</p>",
       "",
       "</details>",
     );
