@@ -10,34 +10,48 @@
 
 #### Languages
 
-<p align="left"><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go" /></a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="36" height="36" alt="Perl" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=go,perl,py,ts,bash" alt="Languages" /></p>
+
+[Go](https://go.dev/doc/) · [Perl](https://www.perl.org/) · [Python](https://www.python.org/) · [TypeScript](https://www.typescriptlang.org/) · [Bash](https://www.gnu.org/software/bash/)
 
 #### Frameworks
 
-<p align="left"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" /></a> <a href="https://solidjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" width="36" height="36" alt="Solid" /></a> <a href="https://lit.dev/" target="_blank" rel="noreferrer"><img src="https://lit.dev/images/logo.svg#full" width="36" height="36" alt="Lit" /></a> <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36" height="36" alt="Astro" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=vue,solidjs,astro,expressjs,tailwind" alt="Frameworks" /></p>
+
+[Vue](https://vuejs.org/) · [Solid](https://solidjs.com/) · [Lit](https://lit.dev/) · [Astro](https://astro.build/) · [Express](https://expressjs.com/) · [TailwindCSS](https://tailwindcss.com/)
 
 #### Build Tools
 
-<p align="left"><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite" /></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" /></a> <a href="https://rspack.dev/" target="_blank" rel="noreferrer"><img src="https://assets.rspack.dev/rspack/rspack-logo.svg" width="36" height="36" alt="Rspack" /></a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=vite,webpack,babel" alt="Build Tools" /></p>
+
+[Vite](https://vitejs.dev/) · [Webpack](https://webpack.js.org/) · [Rspack](https://rspack.dev/) · [Babel](https://babeljs.io/)
 
 #### Databases
 
-<p align="left"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="Databases" /></p>
+
+[PostgreSQL](https://www.postgresql.org/) · [MySQL](https://www.mysql.com/) · [Supabase](https://supabase.io/)
 
 #### Tools
 
-<p align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a> <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a> <a href="https://nixos.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="36" height="36" alt="Nix" /></a> <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="36" height="36" alt="Neovim" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,bun,git,docker,nix,neovim" alt="Tools" /></p>
+
+[Node.js](https://nodejs.org/en/) · [Bun](https://bun.sh/) · [Git](https://git-scm.com/) · [Docker](https://www.docker.com/) · [Nix](https://nixos.org/) · [Neovim](https://neovim.io/)
 
 #### Currently Learning
 
-<p align="left"><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a> <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=rust,c" alt="Currently Learning" /></p>
+
+[Rust](https://www.rust-lang.org/) · [C](https://en.cppreference.com/w/c)
 
 <details>
 <summary>Previously worked with</summary>
 
 #### Python Ecosystem
 
-<p align="left"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a> <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=django,flask" alt="Python Ecosystem" /></p>
+
+[Django](https://www.djangoproject.com/) · [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 </details>
 

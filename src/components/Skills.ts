@@ -1,16 +1,26 @@
 import type { ProfileConfig, SkillItem } from "../types";
 
-const DEVICON_BASE =
-  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/";
+const SKILLICONS_BASE = "https://skillicons.dev/icons?i=";
 
-function skillIcon(skill: SkillItem): string {
-  const src = skill.iconUrl ?? `${DEVICON_BASE}${skill.icon}.svg`;
-  return `<a href="${skill.url}" target="_blank" rel="noreferrer"><img src="${src}" width="36" height="36" alt="${skill.name}" /></a>`;
+function iconStrip(category: string, items: SkillItem[]): string | null {
+  const ids = items
+    .map((s) => s.skilliconsId)
+    .filter((id): id is string => Boolean(id));
+  if (!ids.length) return null;
+  const url = `${SKILLICONS_BASE}${ids.join(",")}`;
+  return `<p align="left"><img src="${url}" alt="${category}" /></p>`;
+}
+
+function linkLine(items: SkillItem[]): string {
+  return items.map((s) => `[${s.name}](${s.url})`).join(" · ");
 }
 
 function renderCategory(category: string, items: SkillItem[]): string {
-  const icons = items.map(skillIcon).join(" ");
-  return `#### ${category}\n\n<p align="left">${icons}</p>`;
+  const blocks = [`#### ${category}`, ""];
+  const strip = iconStrip(category, items);
+  if (strip) blocks.push(strip, "");
+  blocks.push(linkLine(items));
+  return blocks.join("\n");
 }
 
 function renderCategories(skills: Record<string, SkillItem[]>): string {

@@ -5,9 +5,11 @@ export interface AboutItem {
 
 export interface SkillItem {
   name: string;
-  icon: string;
   url: string;
-  iconUrl?: string;
+  // Identifier for skillicons.dev (e.g. "go", "ts", "py").
+  // Omit when the tech isn't available there — it will still appear in the
+  // text link line under the icon strip.
+  skilliconsId?: string;
 }
 
 export interface ProfileConfig {
